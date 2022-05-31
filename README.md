@@ -31,8 +31,8 @@
 <code><img height="30" src="./assets/Frontend/bootstrap.svg"></code>
 
 **Database**<br/>
-<code><img height="30" src="./assets/Frontend/mysql.svg"></code>
-<code><img height="30" src="./assets/Frontend/postgresql.svg"></code>
+<code><img height="30" src="./assets/Database/mysql.svg"></code>
+<code><img height="30" src="./assets/Database/postgresql.svg"></code>
 
 **Design**<br/>
 <code><img height="30" src="./assets/Design/figma.svg"></code>
