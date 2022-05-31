@@ -19,8 +19,8 @@
 <br/>
 
 **Backend**<br/>
-<code><img height="30" src="./assets/backend/nodejs.svg"></code>
-<code><img height="30" src="./assets/backend/django.svg"></code>
+<code><img height="30" src="./assets/Backend/nodejs.svg"></code>
+<code><img height="30" src="./assets/Backend/django.svg"></code>
 
 **Frontend**<br/>
 <code><img height="30" src="./assets/Frontend/html5.svg"></code>
@@ -36,3 +36,10 @@
 
 **Design**<br/>
 <code><img height="30" src="./assets/Design/figma.svg"></code>
+<br/>
+
+## Stats ⚡
+
+<br/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naearp777&show_icons=true&locale=en&layout=compact" alt="naearp777" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naearp777&show_icons=true&theme=onedark&bg_color=ffffff&locale=en" alt="naearp777" />
