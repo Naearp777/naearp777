@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.arpanpokharel.com.np" target="_blank" rel="noreferrer"><img width="50%" src="./assets/readme-header.png" /></a></p>
+<p align="center"><a href="https://www.arpanpokharel.com.np" target="_blank" rel="noreferrer"><img width="50%" src="./assets/readme-header.svg" /></a></p>
 
 ## About me 👨
 
