@@ -43,3 +43,17 @@
 <br/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naearp777&show_icons=true&locale=en&layout=compact" alt="naearp777" />
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naearp777&show_icons=true&theme=onedark&bg_color=ffffff&locale=en" alt="naearp777" />
+<br/>
+
+## Links 🔗
+
+<br/>
+<p align="center">
+ <a href="https://www.arpanpokharel.com.np"><img src="./assets/Socials/www.png" alt="Arpan Pokharel"/></a>
+ <a href="mailto:contact@arpanpokharel.com.np"><img src="./assets/Socials/gmail.png" alt="email"/></a>
+ <a href="https://www.linkedin.com/in/arpanpokharel777/"><img src="./assets/Socials/linked.png" alt="linkedin"/></a>
+ <a href="https://www.facebook.com/naearp/"><img src="./assets/Socials/fb.png" alt="facebook"/></a>
+ <a href="https://www.instagram.com/arpan__pokharel/"><img src="./assets/Socials/insta.png" alt="instagram"/></a>
+ <a href="https://steamcommunity.com/id/naearp/"><img src="./assets/Socials/steam.png" alt="steam"/></a>
+ </p>
+<br/>
