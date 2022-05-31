@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.arpanpokharel.com.np"><img width="50%" src="./assets/readme-header.png" /></a></p>
+<p align="center"><a href="https://www.arpanpokharel.com.np" target="_blank" rel="noreferrer"><img width="50%" src="./assets/readme-header.png" /></a></p>
 
 ## About me 👨
 
@@ -6,7 +6,7 @@
 🎓 I’m a Computer Science student at the Central Campus, Tribhuvan University, Nepal 🇳🇵.<br/>
 📍 I’m a full-stack developer.<br/>
 📙 I’m a self-taught learner.<br/>
-💬 Ask me about anything<a href='https://www.arpanpokharel.com.np/contact'> here</a><br/>
+💬 Ask me about anything<a href='https://www.arpanpokharel.com.np/contact' target="_blank" rel="noreferrer"> here</a><br/>
 <br/>
 
 ## Skills 🔥
@@ -49,11 +49,11 @@
 
 <br/>
 <p align="center">
- <a href="https://www.arpanpokharel.com.np" target='_blank'><img src="./assets/Socials/www.png" alt="Arpan Pokharel"/></a>
- <a href="mailto:contact@arpanpokharel.com.np"><img src="./assets/Socials/gmail.png" alt="email"/></a>
- <a href="https://www.linkedin.com/in/arpanpokharel777/"><img src="./assets/Socials/linked.png" alt="linkedin"/></a>
- <a href="https://www.facebook.com/naearp/"><img src="./assets/Socials/fb.png" alt="facebook"/></a>
- <a href="https://www.instagram.com/arpan__pokharel/"><img src="./assets/Socials/insta.png" alt="instagram"/></a>
- <a href="https://steamcommunity.com/id/naearp/"><img src="./assets/Socials/steam.png" alt="steam"/></a>
+ <a href="https://www.arpanpokharel.com.np"  target="_blank" rel="noreferrer"><img src="./assets/Socials/www.png" alt="Arpan Pokharel"/></a>
+ <a href="mailto:contact@arpanpokharel.com.np" target="_blank" rel="noreferrer"><img src="./assets/Socials/gmail.png" alt="email"/></a>
+ <a href="https://www.linkedin.com/in/arpanpokharel777/" target="_blank" rel="noreferrer"><img src="./assets/Socials/linked.png" alt="linkedin"/></a>
+ <a href="https://www.facebook.com/naearp/" target="_blank" rel="noreferrer"><img src="./assets/Socials/fb.png" alt="facebook"/></a>
+ <a href="https://www.instagram.com/arpan__pokharel/" target="_blank" rel="noreferrer"><img src="./assets/Socials/insta.png" alt="instagram"/></a>
+ <a href="https://steamcommunity.com/id/naearp/" target="_blank" rel="noreferrer"><img src="./assets/Socials/steam.png" alt="steam"/></a>
  </p>
 <br/>
