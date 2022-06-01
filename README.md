@@ -1,15 +1,16 @@
 <p align="center"><a href="https://www.arpanpokharel.com.np" target="_blank" rel="noreferrer"><img width="50%" src="./assets/readme-header.svg" /></a></p>
 
-## About me 👨
+
+## About me <img src="./assets/gif/wave-hello.gif" width="20px" />
 
 🏠 I’m currently living at Kathmandu, Nepal 🇳🇵.<br/>
-🎓 I’m a Computer Science student at the Central Campus, Tribhuvan University, Nepal 🇳🇵.<br/>
+🎓 I’m a Computer Science student at the Pulchowk Campus, Tribhuvan University, Nepal 🇳🇵.<br/>
 📍 I’m a full-stack developer.<br/>
 📙 I’m a self-taught learner.<br/>
 💬 Ask me about anything<a href='https://www.arpanpokharel.com.np/contact' target="_blank" rel="noreferrer"> here</a><br/>
 <br/>
 
-## Skills 🔥
+## Skills <img src="./assets/gif/fire.gif" width="20px" />
 
 **Languages**<br/>
 <code><img height="30" src="./assets/languages/c.svg"></code>
@@ -41,7 +42,7 @@
 ## Stats ⚡
 
 <br/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naearp777&show_icons=true&locale=en&layout=compact" alt="naearp777" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naearp777&show_icons=true&locale=en&layout=compact" alt="naearp777" /><br/>
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naearp777&show_icons=true&theme=onedark&bg_color=ffffff&locale=en" alt="naearp777" />
 <br/>
 
