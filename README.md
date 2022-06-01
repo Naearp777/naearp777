@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.arpanpokharel.com.np" target="_blank" rel="noreferrer"><img width="50%" src="./assets/readme-header.svg" /></a></p>
 
 
-## About me <img src="./assets/gif/wave-hello.gif" width="20px" />
+## About me 👨
 
 🏠 I’m currently living at Kathmandu, Nepal 🇳🇵.<br/>
 🎓 I’m a Computer Science student at the Pulchowk Campus, Tribhuvan University, Nepal 🇳🇵.<br/>
@@ -10,7 +10,7 @@
 💬 Ask me about anything<a href='https://www.arpanpokharel.com.np/contact' target="_blank" rel="noreferrer"> here</a><br/>
 <br/>
 
-## Skills <img src="./assets/gif/fire.gif" width="20px" />
+## Skills 🔥
 
 **Languages**<br/>
 <code><img height="30" src="./assets/languages/c.svg"></code>
