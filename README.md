@@ -1,60 +1,35 @@
-<p align="center"><a href="https://www.arpanpokharel.com.np" target="_blank" rel="noreferrer"><img width="50%" src="./assets/readme-header.svg" /></a></p>
+# Hello there 👋
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Naearp777.Naearp777)
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
 
-## About me 👨
+class SoftwareEngineer:
 
-🏠 I’m currently living at Kathmandu, Nepal 🇳🇵.<br/>
-🎓 I’m a Computer Science student at the Pulchowk Campus, Tribhuvan University, Nepal 🇳🇵.<br/>
-📍 I’m a full-stack developer.<br/>
-📙 I’m a self-taught learner.<br/>
-💬 Ask me about anything<a href='https://www.arpanpokharel.com.np/contact' target="_blank" rel="noreferrer"> here</a><br/>
-<br/>
+    def __init__(self):
+        self.name = "Arpan Pokharel"
+        self.languages_spoken = ["np_NP", "en_US"]
+        self.skills = ["Python", "JavaScript", "TypeScript", "C++" ,"C"]
+        self.frameworks=["Django", "FastAPI", "Langchain", "Langgraph", "React", "Next.js", "TailwindCSS", "SASS", "Bootstrap", "React Native"]
+        self.current_company = "Taskfore LLC"
+        self.education = {
+            "degree": "Bachelor In Computer Engineering",
+            "university": "Pulchowk Campus, Tribhuvan University, Nepal",
+            "graduation_year": 2023
+        }
 
-## Skills 🔥
+    def say_hi(self):
+        print("Hello!")
 
-**Languages**<br/>
-<code><img height="30" src="./assets/languages/c.svg"></code>
-<code><img height="30" src="./assets/languages/cpp.svg"></code>
-<code><img height="30" src="./assets/languages/js.svg"></code>
-<code><img height="30" src="./assets/languages/python.svg"></code>
-<br/>
+me = SoftwareEngineer()
+me.say_hi()
 
-**Backend**<br/>
-<code><img height="30" src="./assets/Backend/nodejs.svg"></code>
-<code><img height="30" src="./assets/Backend/django.svg"></code>
+```
 
-**Frontend**<br/>
-<code><img height="30" src="./assets/Frontend/html5.svg"></code>
-<code><img height="30" src="./assets/Frontend/css3.svg"></code>
-<code><img height="30" src="./assets/Frontend/sass.svg"></code>
-<code><img height="30" src="./assets/Frontend/react.svg"></code>
-<code><img height="30" src="./assets/Frontend/redux.svg"></code>
-<code><img height="30" src="./assets/Frontend/bootstrap.svg"></code>
+### 📔 Latest Blog posts
 
-**Database**<br/>
-<code><img height="30" src="./assets/Database/mysql.svg"></code>
-<code><img height="30" src="./assets/Database/postgresql.svg"></code>
-
-**Design**<br/>
-<code><img height="30" src="./assets/Design/figma.svg"></code>
-<br/>
-
-## Stats ⚡
-
-<br/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naearp777&show_icons=true&locale=en&layout=compact" alt="naearp777" /><br/>
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naearp777&show_icons=true&theme=onedark&bg_color=ffffff&locale=en" alt="naearp777" />
-<br/>
-
-## Links 🔗
-
-<br/>
-<p align="center">
- <a href="https://www.arpanpokharel.com.np"  target="_blank" rel="noreferrer"><img src="./assets/Socials/www.png" alt="Arpan Pokharel"/></a>
- <a href="mailto:contact@arpanpokharel.com.np" target="_blank" rel="noreferrer"><img src="./assets/Socials/gmail.png" alt="email"/></a>
- <a href="https://www.linkedin.com/in/arpanpokharel777/" target="_blank" rel="noreferrer"><img src="./assets/Socials/linked.png" alt="linkedin"/></a>
- <a href="https://www.facebook.com/naearp/" target="_blank" rel="noreferrer"><img src="./assets/Socials/fb.png" alt="facebook"/></a>
- <a href="https://www.instagram.com/arpan__pokharel/" target="_blank" rel="noreferrer"><img src="./assets/Socials/insta.png" alt="instagram"/></a>
- <a href="https://steamcommunity.com/id/naearp/" target="_blank" rel="noreferrer"><img src="./assets/Socials/steam.png" alt="steam"/></a>
- </p>
-<br/>
+- [Mastering Python Context Managers: A Guide to Cleaner Resource Management](https://www.arpanpokharel.com.np/blogs/mastering-python-context-managers)
+- [SSH Dynamic Port Forwarding](https://www.arpanpokharel.com.np/blogs/ssh-dynamic-port-forwarding)
