@@ -9,7 +9,7 @@
 class SoftwareEngineer:
     def __init__(self):
         self.name = "Arpan Pokharel"
-        self.role = "AI & Software Engineer | UI/UX Designer | HR Professional"
+        self.role = "AI & Software Engineer | UI/UX Designer "
         self.location = "Nepal"
         self.languages_spoken = ["Nepali (np_NP)", "English (en_US)"]
         self.skills = [
